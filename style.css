@@ -1,0 +1,7 @@
+*{
+    background-color: darkslategrey;
+    color: aliceblue;
+    li{
+        display: list-item
+    };
+}
