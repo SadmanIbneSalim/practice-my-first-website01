@@ -1,7 +1,46 @@
-*{
-    background-color: darkslategrey;
+body{
+    background-color: rgb(124, 184, 184);
     color: aliceblue;
-    li{
-        display: list-item
-    };
+
 }
+
+.middle{
+    text-align: center;
+}
+.yoyo{
+    height: 200px;
+    font-weight: 100%;
+    margin: -10px;
+    box-shadow: 5px 10px 15px rgb(0, 0, 0);
+   
+    
+    background-size: cover;
+}
+ .yummy{
+    border: 6px solid black;
+    margin-top: 40px;
+    padding: 30px;
+    background-color: rgb(177, 101, 103);
+    border-radius: 70px;
+    width: 60%;
+ }
+ .left{
+    text-align: left;
+ }
+ .right{
+    text-align: right;
+ }
+ .fifi{
+    border: 6px solid black;
+    margin-top: 40px;
+    padding: 30px;
+    background-color: rgb(101, 177, 147);
+    border-radius: 70px;
+    width: 60%;
+ }
+ #meme{
+    display: inline;
+ }
+ #mama{
+    border-radius: 150px;
+ }
